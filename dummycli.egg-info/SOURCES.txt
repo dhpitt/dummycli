@@ -1,0 +1,13 @@
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+dummycli/__init__.py
+dummycli/main_alt.py
+dummycli/main_classic.py
+dummycli.egg-info/PKG-INFO
+dummycli.egg-info/SOURCES.txt
+dummycli.egg-info/dependency_links.txt
+dummycli.egg-info/entry_points.txt
+dummycli.egg-info/requires.txt
+dummycli.egg-info/top_level.txt
